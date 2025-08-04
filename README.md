@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelydaluz&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy"/>
+
   
 </p>
 
